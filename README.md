@@ -1,6 +1,7 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&text=지속적으로%20성장하는%20백엔드%20개발자&animation=&fontColor=000000&fontSize=70" />
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&text=열정%20가득한%20개발,%20지금%20시작합니다%20🚀&animation=&fontColor=000000&fontSize=70" />
 </div>
+
 
 
 
