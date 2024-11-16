@@ -1,6 +1,7 @@
 <div align="center" style="padding: 20px;">
-    <span style="font-size: 30em; font-weight: bold; color: #333;">열정 가득한 개발, 지금 시작합니다 🚀</span>
+    <p style="font-size: 2em; font-weight: bold; color: #333; margin: 0;">열정 가득한 개발, 지금 시작합니다</p>
 </div>
+
 
 <div align="center"> 
     <h2>👋 About Me</h2>
