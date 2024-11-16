@@ -31,6 +31,7 @@
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white">
           <br/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+            <img src="https://img.shields.io/badge/Netty-000000?style=flat-square&logo=Netty&logoColor=white">
           </div>
     </div>
     
