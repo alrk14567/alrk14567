@@ -1,5 +1,4 @@
 <div align="center" style="padding: 20px;">
-    <img src="https://em-content.zobj.net/thumbs/120/apple/354/rocket_1f680.png" alt="rocket" width="50" style="vertical-align: middle; margin-right: 15px;">
     <span style="font-size: 2em; font-weight: bold; color: #333;">🚀 열정 가득한 개발, 지금 시작합니다 </span>
 </div>
 
