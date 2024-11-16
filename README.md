@@ -1,8 +1,6 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&text=열정%20가득한%20개발,%20지금%20시작합니다%20🚀&animation=&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&text=열정%20가득한%20개발,%20지금%20시작합니다%20🚀&animation=&fontColor=000000&fontSize=50" />
 </div>
-
-
 
 
 <div align="center"> 
