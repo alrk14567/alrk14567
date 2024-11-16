@@ -1,5 +1,6 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=🚀%20지속적으로%20성장하는%20백엔드%20개발자!&fontColor=000000&fontSize=50" />
+<div align="center" style="background-color: #f4f4f4; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+    <img src="https://em-content.zobj.net/thumbs/120/apple/354/rocket_1f680.png" alt="rocket" width="50" style="vertical-align: middle; margin-right: 10px;">
+    <h1 style="display: inline-block; font-size: 2.5em; font-weight: bold; color: #333; margin: 0;">지속적으로 성장하는 백엔드 개발자</h1>
 </div>
 
 <div align="center"> 
