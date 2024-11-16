@@ -1,6 +1,5 @@
-<div align="center" style="padding: 20px;">
-    <img src="https://em-content.zobj.net/thumbs/120/apple/354/rocket_1f680.png" alt="rocket" width="50" style="vertical-align: middle; margin-right: 15px;">
-    <span style="font-size: 2.5em; font-weight: bold; color: #333;">열정 가득한 개발, 지금 시작합니다 🚀</span>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&text=지속적으로%20성장하는%20백엔드%20개발자&animation=&fontColor=000000&fontSize=70" />
 </div>
 
 
@@ -48,4 +47,4 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alrk14567&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" style="margin-bottom: 10px;" /><br/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=alrk14567&theme=default" />
     </div>
-</div>
+</div>    
